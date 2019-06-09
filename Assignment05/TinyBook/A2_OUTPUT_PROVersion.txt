@@ -1,0 +1,60 @@
+-----DICTIONARY 220 PRO-----
+		powered by Google Guava
+Search: book
+	|
+	 Book [verb] : To arrange something on a particular date.
+	 Book [noun] : A set of pages.
+	|
+Search: book noun
+	|
+	 Book [noun] : A set of pages.
+	|
+Search: boOK adverb
+	|
+	 <Not found>
+	|
+Search: book oops
+	|
+	 <2nd argument must be a part of speech>
+	|
+Search: Facebook
+	|
+	 <Not found>
+	|
+Search: csc220
+	|
+	 CSC220 [verb] : To create data structures.
+	 CSC220 [noun] : Data Structures.
+	 CSC220 [adjective] : Ready to create complex data structures.
+	|
+Search: csc220 adjective
+	|
+	 CSC220 [adjective] : Ready to create complex data structures.
+	|
+Search: bookcase
+	|
+	 Bookcase [noun] : A piece of furniture with shelves.
+	|
+Search: bookable verb
+	|
+	 <Not found>
+	|
+Search: bookable adjective
+	|
+	 Bookable [adjective] : Can be ordered.
+	|
+Search: bookcase
+	|
+	 Bookcase [noun] : A piece of furniture with shelves.
+	|
+Search: bookbinder v
+	|
+	 <2nd argument must be a part of speech>
+	|
+Search: bookbinder verb
+	|
+	 <Not found>
+	|
+Search: !Q
+
+-----THANK YOU-----

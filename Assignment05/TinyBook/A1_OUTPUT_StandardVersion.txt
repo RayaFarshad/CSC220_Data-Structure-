@@ -1,0 +1,37 @@
+-----DICTIONARY 220 Standard-----
+		powered by Google Guava
+Search: book
+	|
+	 Book : A set of pages.
+	 Book : To arrange something on a particular date.
+	|
+Search: boOK
+	|
+	 Book : A set of pages.
+	 Book : To arrange something on a particular date.
+	|
+Search: bookable
+	|
+	 Bookable : Can be ordered.
+	|
+Search: bookbinder
+	|
+	 Bookbinder : A person who fastens the pages of books.
+	|
+Search: bookcase
+	|
+	 Bookcase : A piece of furniture with shelves.
+	|
+Search: csc220
+	|
+	 CSC220 : Data Structures.
+	 CSC220 : Ready to create complex data structures.
+	 CSC220 : To create data structures.
+	|
+Search: Facebook
+	|
+	 <Not found>
+	|
+Search: !q
+
+-----THANK YOU-----
