@@ -1,0 +1,169 @@
+run:
+Creating profiles and adding to database.
+Name: John Doe
+	Status: My name is John.
+	Picture: BufferedImage@52e922
+	# of friends: 0
+Friends:
+
+Name: Jane Doe
+	Status: My name is Jane.
+	Picture: BufferedImage@25154f
+	# of friends: 0
+Friends:
+
+Name: Billy Bob
+	Status: My name is Billy Bob!
+	Picture: BufferedImage@10dea4
+	# of friends: 0
+Friends:
+
+Name: John Smith
+	Status: My name is also John.
+	Picture: BufferedImage@647e05
+	# of friends: 0
+Friends:
+
+-------------------------------------
+
+Creating friendships.
+
+Name: John Doe
+	Status: My name is John.
+	Picture: BufferedImage@52e922
+	# of friends: 2
+Friends:
+	Jane Doe
+	John Smith
+
+Name: Jane Doe
+	Status: My name is Jane.
+	Picture: BufferedImage@25154f
+	# of friends: 3
+Friends:
+	John Doe
+	Billy Bob
+	John Smith
+
+Name: Billy Bob
+	Status: My name is Billy Bob!
+	Picture: BufferedImage@10dea4
+	# of friends: 2
+Friends:
+	Jane Doe
+	John Smith
+
+Name: John Smith
+	Status: My name is also John.
+	Picture: BufferedImage@647e05
+	# of friends: 3
+Friends:
+	John Doe
+	Jane Doe
+	Billy Bob
+
+-------------------------------------
+
+Changing statuses / names.
+
+Name: John Doe
+	Status: My name is John.
+	Picture: BufferedImage@52e922
+	# of friends: 2
+Friends:
+	Jane Smith
+	John Smith
+
+Name: Jane Smith
+	Status: Now Mrs. Smith!
+	Picture: BufferedImage@25154f
+	# of friends: 3
+Friends:
+	John Doe
+	Billy Bob
+	John Smith
+
+Name: Billy Bob
+	Status: My name is Billy Bob!
+	Picture: BufferedImage@10dea4
+	# of friends: 2
+Friends:
+	Jane Smith
+	John Smith
+
+Name: John Smith
+	Status: Just got married!
+	Picture: BufferedImage@647e05
+	# of friends: 3
+Friends:
+	John Doe
+	Jane Smith
+	Billy Bob
+
+-------------------------------------
+
+Ending a friendship.
+
+Name: John Doe
+	Status: My name is John.
+	Picture: BufferedImage@52e922
+	# of friends: 2
+Friends:
+	Jane Smith
+	John Smith
+
+Name: Jane Smith
+	Status: Now Mrs. Smith!
+	Picture: BufferedImage@25154f
+	# of friends: 3
+Friends:
+	John Doe
+	Billy Bob
+	John Smith
+
+Name: Billy Bob
+	Status: My name is Billy Bob!
+	Picture: BufferedImage@10dea4
+	# of friends: 2
+Friends:
+	Jane Smith
+	John Smith
+
+Name: John Smith
+	Status: Just got married!
+	Picture: BufferedImage@647e05
+	# of friends: 3
+Friends:
+	John Doe
+	Jane Smith
+	Billy Bob
+
+-------------------------------------
+
+Removing John.
+
+Name: Jane Smith
+	Status: Now Mrs. Smith!
+	Picture: BufferedImage@25154f
+	# of friends: 2
+Friends:
+	Billy Bob
+	John Smith
+
+Name: Billy Bob
+	Status: My name is Billy Bob!
+	Picture: BufferedImage@10dea4
+	# of friends: 2
+Friends:
+	Jane Smith
+	John Smith
+
+Name: John Smith
+	Status: Just got married!
+	Picture: BufferedImage@647e05
+	# of friends: 2
+Friends:
+	Jane Smith
+	Billy Bob
+
+BUILD SUCCESSFUL (total time: 0 seconds)
